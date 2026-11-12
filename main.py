@@ -1,6 +1,3 @@
-def main():
-    print("Hello from firstendtoend!")
+from src.mlendtoend import logger
 
-
-if __name__ == "__main__":
-    main()
+logger.info("Welcome to our custom logger")
