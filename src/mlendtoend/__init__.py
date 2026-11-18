@@ -1,6 +1,6 @@
-import os 
-import sys
 import logging
+import os
+import sys
 
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s] %(message)s"
 
@@ -18,4 +18,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger()
+logger = logging.getLogger("__main__")

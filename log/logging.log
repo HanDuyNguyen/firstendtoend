@@ -1,2 +1,19 @@
 [2026-11-11 21:12:56,356: INFO: main] Welcome to our custom logger
 [2026-11-11 21:13:34,161: INFO: main] Welcome to our custom logger
+[2026-11-11 21:26:41,805: INFO: main] Welcome to our custom logger
+[2026-11-16 21:23:51,568: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:26:35,803: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:36:11,634: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:36:11,636: INFO: common] Create a directory at xxxx
+[2026-11-16 21:40:15,259: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:40:15,260: INFO: common] Create a directory at xxxx
+[2026-11-16 21:43:52,930: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:44:28,995: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:45:24,736: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:45:42,597: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:46:13,960: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:46:51,305: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:46:51,308: INFO: common] Create a directory at xxxx
+[2026-11-16 21:57:00,744: INFO: common] Load yaml file from params.yaml succesfully
+[2026-11-16 21:57:00,745: INFO: common] Create a directory at xxxx
+[2026-11-16 21:57:00,746: INFO: common] Successfully load json file at test.json
